@@ -9,7 +9,7 @@
 ////
 Nombre - Titulo
 ////
-# Lab 1 - BPMN 
+# Lab 2 - BPMN 
 Representación de los procesos de negocio mediante diagrama BPMN 
 Manel Mena <manel.mena@ual.es>
 
